@@ -1,3 +1,16 @@
+'''
+
+01a Exercises
+These exercises should help you get the flavor of how to perform arithmetic and string operations in Python. 
+You will also get to play with (pseudo-)random generators and the range operator.
+These skills will all be used in assignment 2.
+
+To answer these exercises, open the IDLE program that came with your Python installation. IDLE is a line-by-line Python interpreter.
+You can copy lines from this file into IDLE to interpret them and produce a result. Then copy the result back to the following line in this file (after the #).
+You will also need to answer several questions to show you understand what is happening. 
+
+
+'''
 # Math in Python is what you would expect. Add comments with the answers the IDLE returns. I'll do the first one for you.
 10 + 15 
 #25
